@@ -1,5 +1,5 @@
 # StarCitizen-PT-BR
-Tradução do Star Citizen para português do Brasil
+Minha contribuição para a tradução do Star Citizen para português do Brasil
 ##########
 #
 A pasta 'english' é apenas para poder rastrear mudanças que vierem ocorrer no idioma original
